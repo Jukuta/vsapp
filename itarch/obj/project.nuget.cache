@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVndXH6aAVX8zdEEoLCrOA7JAdsfz5+XCQ9VBwqx2dGZ74ExFvMn0m7m2DyHdcZn6j38nQnVp7tBbxgKvi/YkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rajka\\source\\repos\\vsapp\\itarch\\itarch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
